@@ -49,3 +49,14 @@ Key takeaway - Weak passwords are still one of the easiest ways in.
 What I learnt - How a misconfigured sudo permission can let a regular user become root
 Key takeaway - "sudo -l" shows what a user can run as root. GTFOBins lists programs that can be abused to escape into a root shell if sudo allows them
 Command used - sudo find . -exec /bin/sh ; -quit
+
+### 🏅 My TryHackMe Badges
+
+* [![3-Day Streak Badge](https://shields.io)](https://tryhackme.com/ososanyachristianah54/badges/3-day-streak)
+* [![7-Day Streak Badge](https://shields.io)](https://tryhackme.com/ososanyachristianah54/badges/7-day-streak)
+* [![Web Fundamentals Badge](https://shields.io)](https://tryhackme.com/ososanyachristianah54/badges/web-fund)
+* [![Terminaled Badge](https://shields.io)](https://tryhackme.com/ososanyachristianah54/badges/terminaled)
+* [![First 4 Rooms Badge](https://shields.io)](https://tryhackme.com/ososanyachristianah54/badges/first-4-rooms)
+
+### 📊 My Live TryHackMe Stats
+
