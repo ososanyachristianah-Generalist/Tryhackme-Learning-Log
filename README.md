@@ -59,4 +59,4 @@ Command used - sudo find . -exec /bin/sh ; -quit
 * [![First 4 Rooms Badge](https://shields.io)](https://tryhackme.com/ososanyachristianah54/badges/first-4-rooms)
 
 ### 📊 My Live TryHackMe Stats
-
+![TryHackMe Stats](https://tryhackme-cards.vercel.app/api/v1/user/ososanyachristianah54)
